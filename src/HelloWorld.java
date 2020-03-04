@@ -12,12 +12,7 @@ try {
 	public void setValues(String[] somevalues) {
         this.values = somevalues;
 }
-	public void setValues2(String[] somevalues) {
-        this.values = somevalues;
-}
-	public void devideBy0(int num) {
-        int newNum = num/0;
-}
+
 	
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
